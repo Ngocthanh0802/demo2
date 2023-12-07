@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\btt5\btt5\bin\Debug\btt5.exe.config
+C:\Users\Admin\Desktop\btt5\btt5\bin\Debug\btt5.exe
+C:\Users\Admin\Desktop\btt5\btt5\bin\Debug\btt5.pdb
+C:\Users\Admin\Desktop\btt5\btt5\obj\Debug\btt5.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\btt5\btt5\obj\Debug\btt5.Properties.Resources.resources
+C:\Users\Admin\Desktop\btt5\btt5\obj\Debug\btt5.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\btt5\btt5\obj\Debug\btt5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\btt5\btt5\obj\Debug\btt5.exe
+C:\Users\Admin\Desktop\btt5\btt5\obj\Debug\btt5.pdb
